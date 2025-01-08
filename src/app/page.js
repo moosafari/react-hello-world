@@ -9,7 +9,7 @@ export default function ProfilePage() {
       <section style={{ marginTop: "20px" }}>
         <h2>About</h2>
         <p>
-          Experienced software engineer with expertise in web development,
+          failed Experienced software engineer with expertise in web development,
           cloud computing, and distributed systems. Passionate about creating
           scalable and efficient applications.
         </p>
